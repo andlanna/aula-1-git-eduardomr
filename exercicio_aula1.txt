@@ -2,8 +2,6 @@
 
 a) git init: Inicia um repositório a partir de um diretório.
 
-
-
 b) git clone: Inicia um repositório a partir de um projeto já existente em um repositório remoto.
 
 c) git branch: Lista todas as branches do repositório.
