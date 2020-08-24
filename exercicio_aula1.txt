@@ -1,0 +1,26 @@
+1- Informe o propósito e os efeitos de cada um dos comandos git listados abaixo:
+
+a) git init: Inicia um repositório a partir de um diretório.
+
+
+
+b) git clone: Inicia um repositório a partir de um projeto já existente em um repositório remoto.
+
+c) git branch: Lista todas as branches do repositório.
+
+d) git checkout: Migra para uma branch específica já existente.
+
+e) git fetch: Busca alterações mais recentes da branch atual no repositório remoto.
+
+f) git pull: Busca as alterações do repositório remoto e às incorpora no repositório local.
+
+g) git add: Adiciona todas as mudanças do executadas nos arquivos do diretório à staging area.
+
+h) git commit:Adiciona todos os arquivos da staging area ao repositório.
+
+i) git push: É usado para enviar os arquivos do repositório local ao repositório remoto.
+
+2- Os comandos git pull e git fetch são muito parecidos, mas os resultados sobre o repositório são diferentes. Diferencie os comandos com base nos resultados produzidos por eles.
+
+O git fetch busca diferenças com relação à branch atual, mas não executa alterações. O git pull faz o mesmo, porém executa o merge das diferenças.
+
